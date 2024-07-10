@@ -46,13 +46,14 @@ import {
     },
     {
       id: "1",
-      title: "Pricing",
-      url: "#pricing",
-    },
-    {
-      id: "2",
       title: "How to use",
       url: "#how-to-use",
+    },
+    {      
+      id: "2",
+      title: "Pricing",
+      url: "#pricing",
+
     },
     {
       id: "3",
