@@ -7,7 +7,7 @@
 
 <img src="public/hero.png" alt="Exemplo imagem">
 
-> Website fictício para uma AI "Brainwwave" desenvolvido usando React.js e Tailwind CSS, exemplifica princípios modernos de UI/UX. Seu design elegante, animações incríveis e experiência geral do usuário estabelecem um alto padrão.
+> Website fictício para uma AI "Brainwave" desenvolvido usando React.js e Tailwind CSS, exemplifica princípios modernos de UI/UX. O site oferece um design elegante, animações incríveis e experiência geral para os usuários.
 > 
 ## 📚 Aprendizados
 Neste projeto, aprofundei meus conhecimentos em React e Tailwind CSS, efeitos parallax no mouse e na rolagem do site, conceitos modernos de UI/UX, posicionamento de elementos, bento grid e composição de cores.
